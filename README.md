@@ -1,13 +1,14 @@
 # Co_paper
-我的个人存储库
-亲爱的读者，
+My personal repository.
 
-我很高兴能够向你介绍我自己。我叫Co_paper，今年19岁，出生于中国。我目前是一名大一学生。
+Dear reader,
 
-在我的课余时间，我喜欢阅读各种类型的书籍，尤其是关于历史、文学和科技的书籍。此外，我还喜欢听音乐、看电影和旅游。这些爱好让我能够更好地放松自己，同时也提高了我的文化素养和视野。
+I am delighted to introduce myself to you. My name is Co_paper, a 19-year-old student from China and currently a freshman.
 
-在大学期间，我希望能够充分利用时间和机会，积极参加各种类型的活动和组织，并在其中获得更多的经验和技能。我也希望能够通过自己的努力，成为一名优秀的学生，并为社会做出自己的贡献。
+In my spare time, I enjoy reading all kinds of books, especially those related to history, literature, and technology. Additionally, I enjoy listening to music, watching movies, and traveling. These hobbies not only help me to relax but also enhance my cultural literacy and broaden my horizons.
 
-感谢你花时间了解我。我相信，未来的道路会越来越宽广，我也会不断地努力和成长。
+During my time in university, I hope to make full use of my time and opportunities to actively participate in various activities and organizations, and gain more experience and skills. I also aim to become an excellent student through my own efforts, and make contributions to society.
 
-谢谢！
+Thank you for taking the time to get to know me. I believe that the future holds endless possibilities, and I will continue to strive and grow.
+
+Thank you!
